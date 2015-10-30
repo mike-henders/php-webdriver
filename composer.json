@@ -1,5 +1,5 @@
 {
-  "name": "mike-henders/webdriver",
+  "name": "facebook/webdriver",
   "description": "A PHP client for WebDriver",
   "keywords": ["webdriver", "selenium", "php", "facebook"],
   "homepage": "https://github.com/facebook/php-webdriver",
